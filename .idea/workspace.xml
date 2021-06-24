@@ -95,13 +95,13 @@
       <recent name="com.alaxneon" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Student8">
-    <configuration name="Exercise5_Fortune_Cookie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alaxneon.Exercise5_Fortune_Cookie" />
+  <component name="RunManager" selected="Application._105_Test">
+    <configuration name="_102_Splender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alaxneon.June_2021._24_Thu_Practice._102_Splender" />
       <module name="MyJavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alaxneon.Rough" />
+          <option name="PATTERN" value="com.alaxneon.June_2021._24_Thu_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_Hero_Battle_Multiplayer____UnderConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alaxneon.Exercise6_Hero_Battle_Multiplayer____UnderConstruction" />
+    <configuration name="_103_Honda3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alaxneon.June_2021._24_Thu_Practice._103_Honda3" />
       <module name="MyJavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alaxneon.Rough" />
+          <option name="PATTERN" value="com.alaxneon.June_2021._24_Thu_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alaxneon.Main" />
+    <configuration name="_104_Dogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alaxneon.June_2021._24_Thu_Practice._104_Dogs" />
       <module name="MyJavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alaxneon.*" />
+          <option name="PATTERN" value="com.alaxneon.June_2021._24_Thu_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alaxneon.Rough" />
+    <configuration name="_105_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alaxneon.June_2021._24_Thu_Practice._105_Test" />
       <module name="MyJavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alaxneon.Rough" />
+          <option name="PATTERN" value="com.alaxneon.June_2021._24_Thu_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alaxneon.Student8" />
+    <configuration name="_96_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alaxneon.June_2021._24_Thu_Practice._96_Main" />
       <module name="MyJavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alaxneon.*" />
+          <option name="PATTERN" value="com.alaxneon.June_2021._24_Thu_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Student8" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Rough" />
-        <item itemvalue="Application.Exercise6_Hero_Battle_Multiplayer____UnderConstruction" />
-        <item itemvalue="Application.Exercise5_Fortune_Cookie" />
+        <item itemvalue="Application._105_Test" />
+        <item itemvalue="Application._104_Dogs" />
+        <item itemvalue="Application._103_Honda3" />
+        <item itemvalue="Application._102_Splender" />
+        <item itemvalue="Application._96_Main" />
       </list>
     </recent_temporary>
   </component>
